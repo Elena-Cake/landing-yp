@@ -13,6 +13,8 @@ import Stories from '../Stories/Stories';
 function Main() {
   return (
     <div className="App">
+      <h1>Let's do it</h1>
+      <img src='https://media1.giphy.com/media/Oj5w7lOaR5ieNpuBhn/giphy.gif'/>
       <Intro />
       <Possibility />
       <Find />
